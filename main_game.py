@@ -1,4 +1,5 @@
 # Game Development:- Snake Water Gun game
+# This game is similar to Rock-Paper-Scissor game
 import random
 
 print("SNAKE WATER GUN\n"
