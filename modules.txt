@@ -1,0 +1,3 @@
+Modules used in this project
+1. random-
+           function -  random.choices()
